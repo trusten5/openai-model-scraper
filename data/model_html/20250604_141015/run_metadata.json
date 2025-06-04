@@ -1,0 +1,241 @@
+{
+  "run_id": "20250604_141015",
+  "datetime": "2025-06-04T14:10:17.581551",
+  "pages": [
+    {
+      "model_alias": "gpt-4.1",
+      "url": "https://platform.openai.com/docs/models/gpt-4.1",
+      "filename": "gpt-4.1.html",
+      "success": true
+    },
+    {
+      "model_alias": "codex-mini-latest",
+      "url": "https://platform.openai.com/docs/models/codex-mini-latest",
+      "filename": "codex-mini-latest.html",
+      "success": true
+    },
+    {
+      "model_alias": "omni-moderation-latest",
+      "url": "https://platform.openai.com/docs/models/omni-moderation-latest",
+      "filename": "omni-moderation-latest.html",
+      "success": true
+    },
+    {
+      "model_alias": "whisper-1",
+      "url": "https://platform.openai.com/docs/models/whisper-1",
+      "filename": "whisper-1.html",
+      "success": true
+    },
+    {
+      "model_alias": "gpt-4o",
+      "url": "https://platform.openai.com/docs/models/gpt-4o",
+      "filename": "gpt-4o.html",
+      "success": true
+    },
+    {
+      "model_alias": "o1-pro",
+      "url": "https://platform.openai.com/docs/models/o1-pro",
+      "filename": "o1-pro.html",
+      "success": true
+    },
+    {
+      "model_alias": "text-moderation-latest",
+      "url": "https://platform.openai.com/docs/models/text-moderation-latest",
+      "filename": "text-moderation-latest.html",
+      "success": true
+    },
+    {
+      "model_alias": "tts-1-hd",
+      "url": "https://platform.openai.com/docs/models/tts-1-hd",
+      "filename": "tts-1-hd.html",
+      "success": true
+    },
+    {
+      "model_alias": "text-embedding-3-large",
+      "url": "https://platform.openai.com/docs/models/text-embedding-3-large",
+      "filename": "text-embedding-3-large.html",
+      "success": true
+    },
+    {
+      "model_alias": "chatgpt-4o-latest",
+      "url": "https://platform.openai.com/docs/models/chatgpt-4o-latest",
+      "filename": "chatgpt-4o-latest.html",
+      "success": true
+    },
+    {
+      "model_alias": "tts-1",
+      "url": "https://platform.openai.com/docs/models/tts-1",
+      "filename": "tts-1.html",
+      "success": true
+    },
+    {
+      "model_alias": "gpt-4.1-nano",
+      "url": "https://platform.openai.com/docs/models/gpt-4.1-nano",
+      "filename": "gpt-4.1-nano.html",
+      "success": true
+    },
+    {
+      "model_alias": "o1",
+      "url": "https://platform.openai.com/docs/models/o1",
+      "filename": "o1.html",
+      "success": true
+    },
+    {
+      "model_alias": "gpt-4o-realtime-preview",
+      "url": "https://platform.openai.com/docs/models/gpt-4o-realtime-preview",
+      "filename": "gpt-4o-realtime-preview.html",
+      "success": true
+    },
+    {
+      "model_alias": "o3-mini",
+      "url": "https://platform.openai.com/docs/models/o3-mini",
+      "filename": "o3-mini.html",
+      "success": true
+    },
+    {
+      "model_alias": "gpt-image-1",
+      "url": "https://platform.openai.com/docs/models/gpt-image-1",
+      "filename": "gpt-image-1.html",
+      "success": true
+    },
+    {
+      "model_alias": "gpt-3.5-turbo",
+      "url": "https://platform.openai.com/docs/models/gpt-3.5-turbo",
+      "filename": "gpt-3.5-turbo.html",
+      "success": true
+    },
+    {
+      "model_alias": "gpt-4o-search-preview",
+      "url": "https://platform.openai.com/docs/models/gpt-4o-search-preview",
+      "filename": "gpt-4o-search-preview.html",
+      "success": true
+    },
+    {
+      "model_alias": "gpt-4o-mini-search-preview",
+      "url": "https://platform.openai.com/docs/models/gpt-4o-mini-search-preview",
+      "filename": "gpt-4o-mini-search-preview.html",
+      "success": true
+    },
+    {
+      "model_alias": "gpt-4o-mini-audio-preview",
+      "url": "https://platform.openai.com/docs/models/gpt-4o-mini-audio-preview",
+      "filename": "gpt-4o-mini-audio-preview.html",
+      "success": true
+    },
+    {
+      "model_alias": "babbage-002",
+      "url": "https://platform.openai.com/docs/models/babbage-002",
+      "filename": "babbage-002.html",
+      "success": true
+    },
+    {
+      "model_alias": "gpt-4-turbo",
+      "url": "https://platform.openai.com/docs/models/gpt-4-turbo",
+      "filename": "gpt-4-turbo.html",
+      "success": true
+    },
+    {
+      "model_alias": "gpt-4o-transcribe",
+      "url": "https://platform.openai.com/docs/models/gpt-4o-transcribe",
+      "filename": "gpt-4o-transcribe.html",
+      "success": true
+    },
+    {
+      "model_alias": "dall-e-3",
+      "url": "https://platform.openai.com/docs/models/dall-e-3",
+      "filename": "dall-e-3.html",
+      "success": true
+    },
+    {
+      "model_alias": "o3",
+      "url": "https://platform.openai.com/docs/models/o3",
+      "filename": "o3.html",
+      "success": true
+    },
+    {
+      "model_alias": "gpt-4o-mini",
+      "url": "https://platform.openai.com/docs/models/gpt-4o-mini",
+      "filename": "gpt-4o-mini.html",
+      "success": true
+    },
+    {
+      "model_alias": "davinci-002",
+      "url": "https://platform.openai.com/docs/models/davinci-002",
+      "filename": "davinci-002.html",
+      "success": true
+    },
+    {
+      "model_alias": "gpt-4o-audio-preview",
+      "url": "https://platform.openai.com/docs/models/gpt-4o-audio-preview",
+      "filename": "gpt-4o-audio-preview.html",
+      "success": true
+    },
+    {
+      "model_alias": "computer-use-preview",
+      "url": "https://platform.openai.com/docs/models/computer-use-preview",
+      "filename": "computer-use-preview.html",
+      "success": true
+    },
+    {
+      "model_alias": "text-embedding-ada-002",
+      "url": "https://platform.openai.com/docs/models/text-embedding-ada-002",
+      "filename": "text-embedding-ada-002.html",
+      "success": true
+    },
+    {
+      "model_alias": "o4-mini",
+      "url": "https://platform.openai.com/docs/models/o4-mini",
+      "filename": "o4-mini.html",
+      "success": true
+    },
+    {
+      "model_alias": "gpt-4o-mini-realtime-preview",
+      "url": "https://platform.openai.com/docs/models/gpt-4o-mini-realtime-preview",
+      "filename": "gpt-4o-mini-realtime-preview.html",
+      "success": true
+    },
+    {
+      "model_alias": "gpt-4.1-mini",
+      "url": "https://platform.openai.com/docs/models/gpt-4.1-mini",
+      "filename": "gpt-4.1-mini.html",
+      "success": true
+    },
+    {
+      "model_alias": "gpt-4o-mini-tts",
+      "url": "https://platform.openai.com/docs/models/gpt-4o-mini-tts",
+      "filename": "gpt-4o-mini-tts.html",
+      "success": true
+    },
+    {
+      "model_alias": "o1-mini",
+      "url": "https://platform.openai.com/docs/models/o1-mini",
+      "filename": "o1-mini.html",
+      "success": true
+    },
+    {
+      "model_alias": "text-embedding-3-small",
+      "url": "https://platform.openai.com/docs/models/text-embedding-3-small",
+      "filename": "text-embedding-3-small.html",
+      "success": true
+    },
+    {
+      "model_alias": "gpt-4",
+      "url": "https://platform.openai.com/docs/models/gpt-4",
+      "filename": "gpt-4.html",
+      "success": true
+    },
+    {
+      "model_alias": "gpt-4o-mini-transcribe",
+      "url": "https://platform.openai.com/docs/models/gpt-4o-mini-transcribe",
+      "filename": "gpt-4o-mini-transcribe.html",
+      "success": true
+    },
+    {
+      "model_alias": "dall-e-2",
+      "url": "https://platform.openai.com/docs/models/dall-e-2",
+      "filename": "dall-e-2.html",
+      "success": true
+    }
+  ],
+  "success": true
+}
