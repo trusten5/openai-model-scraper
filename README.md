@@ -11,9 +11,8 @@ A collection of Python scripts for scraping and analyzing OpenAI model informati
 ├── src/
 │   ├── modelScrapeHTML.py    # HTML scraping for model information
 │   ├── priceScrape.py        # Price data scraping
-│   └── model_html/           # Module for HTML processing
 └── data/                     # Directory for scraped data
-    └── model_parsed/         # Parsed model information
+    └── model_html/           # Scraped html data + run_metadata file
 ```
 
 ## Setup
