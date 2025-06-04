@@ -2,12 +2,12 @@ from playwright.sync_api import sync_playwright, Playwright
 from browserbase import Browserbase
 import time
 
-bb = Browserbase(api_key="bb_live_mhGM5poYqg5psPFSdGugzqvuKes")
+bb = Browserbase(api_key=os.environ["BROWSERBASE_API_KEY"])
 
 BASE_URL = "https://platform.openai.com"
 
 def run(playwright: Playwright):
-    session = bb.sessions.create(project_id="7d30fc58-305f-4d74-865a-3dbbc4e17f1e")
+    session = bb.sessions.create(project_id=os.environ["BROWSERBASE_PROJECT_ID"])
     chromium = playwright.chromium
     browser = chromium.connect_over_cdp(session.connect_url)
     context = browser.contexts[0]
